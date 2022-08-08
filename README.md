@@ -102,11 +102,5 @@ amarillo, por ejemplo)
 
 ![image](https://user-images.githubusercontent.com/64716417/182266856-53c3dd9f-ab96-471f-9c95-5619c285204c.png)
 
-<b>24. </b>Escribir un programa de JavaScript que a través de un formulario calcule el radio de un
-circulo y lo muestre en el HTML.
 
-<b>25. </b> Escriba una función de JavaScript para obtener los valores de Nombre y Apellido del
-siguiente formulario.
-
-![image](https://user-images.githubusercontent.com/64716417/182267200-ff07759a-b4ab-404d-822b-a6ed8fbb90ce.png)
 
